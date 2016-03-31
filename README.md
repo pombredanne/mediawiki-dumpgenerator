@@ -17,7 +17,7 @@ XML dump (full history):
 
 Image dump:
 
-    python dumpgenerator.py --api=http://wikipedia.org/w/api.php --images
+    python dumpgenerator.py --api=http://example.org/w/api.php --images
 
 XML (full history) and image dump together:
 
