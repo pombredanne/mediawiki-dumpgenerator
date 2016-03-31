@@ -1,6 +1,8 @@
 mediawiki-dumpgenerator
 =======================
 
+**Update:** The project is now on GitHub → https://github.com/WikiTeam/wikiteam
+
 Copy of [WikiTeam](http://code.google.com/p/wikiteam/)’s [http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py](http://code.google.com/p/wikiteam/source/browse/trunk/dumpgenerator.py) (GPLv3).
 
 > dumpgenerator.py is a script to generate backups of MediaWiki wikis  
